@@ -10,7 +10,7 @@ body{
 
 .laptop{
 	height: 180px;
-	width: 285px;
+	width: 290px;
 	margin-top: 14px;
 	background: #fff;
 	box-sizing: border-box;
@@ -27,7 +27,7 @@ body{
 }
 
 .keyboard{
-	width: 285px;
+	width: 290px;
 	height: 0;
 	position: absolute;
 	border-bottom: 62px solid #d6e0f0;
