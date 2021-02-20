@@ -62,7 +62,7 @@ body{
 }
 
 .keys {
-	width: 250px;
+	width: 200px;
 	height: 0;
 	border-bottom: 32px solid black;
 	border-left: 16px solid transparent;
@@ -84,5 +84,5 @@ body{
 } 
 
 .laptop h1{
-	padding: 15px;
+	padding: 10px;
 }
